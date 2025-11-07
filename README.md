@@ -11,7 +11,7 @@
 - [Conclusion ](#conclusion)
 
 ## Overview:
-The FairMoney Loan Performance Dashboard is an interactive Power BI report designed to evaluate the end-to-end loan process from lead generation to disbursement, while assessing loan risk, approval rates, and disbursement performance across Nigerian states.
+The FairMoney Loan Performance Dashboard is an Excel report designed to evaluate the end-to-end loan process from lead generation to disbursement, while assessing loan risk, approval rates, and disbursement performance across Nigerian states.
 This project demonstrates how data storytelling and visualization can uncover operational inefficiencies, reveal growth drivers, and guide better credit decisions.
 
 ## Problem Statement
